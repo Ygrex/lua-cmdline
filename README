@@ -8,4 +8,5 @@ Features:
 * getopt_long_only() alternative implemented
 * simple procedural and OOP interfaces available
 * no required dependencies
+* arguments permutation implemented
 
