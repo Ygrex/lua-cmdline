@@ -1,0 +1,11 @@
+cmdline module provides a pure Lua alternative to getopt() family
+
+based on Glibc implementation and POSIX.2008 description
+
+Features:
+* both short and long options supported
+* POSIXly correct mode available
+* getopt_long_only() alternative implemented
+* simple procedural and OOP interfaces available
+* no required dependencies
+
